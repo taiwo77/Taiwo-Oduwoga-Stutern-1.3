@@ -1,0 +1,57 @@
+*{
+    background-color: pink;
+}
+h1 {
+    color: blueviolet;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    color: green;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    color: aqua;
+}
+
+.my-hobbies-one{
+    color: palevioletred;
+}
+.my-hobbies-two{
+    color: rgb(20, 99, 79);
+}
+.my-hobbies-three{
+    color: chartreuse;
+}
+.my-hobbies-four{
+    color: firebrick;
+}
+
+h3 {
+    color: rebeccapurple;
+}
+#my-skills {
+    color: purple;
+    font-size: 17px;
+}
+
+#my-skills-one {
+    color: rgba(128, 83, 34, 0.884);
+}
+#my-skills-two {
+    color: sandybrown;
+}
+#my-skills-three {
+    color: violet;
+}
+.p-one{
+    background-color: fuchsia;
+    border: 5px solid;
+    border-color: yellow;
+    color: tomato;
+}
+.div-one{
+    border: 5px solid;
+    background-color: lawngreen;
+}
